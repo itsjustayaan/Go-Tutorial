@@ -1,0 +1,2 @@
+- This Repository contains the GoLang official tutorial I followed to learn the basics of Go.
+- With the tutorial completed I will start to work on a project to have a deeper understanding and polish my skills :)
